@@ -4,8 +4,8 @@ A stunning, responsive landing page for ADmyBRAND AI Suite - an AI-powered marke
 
 ## 🚀 Live Demo
 
-- **Live Website**: [Your Vercel URL here]
-- **GitHub Repository**: [Your GitHub URL here]
+- **Live Website**: [a-dmy-brand-landing-page.vercel.app]
+- **GitHub Repository**: [https://github.com/nynabr/ADmyBRAND-Landing-Page]
 
 ## ✨ Features
 
